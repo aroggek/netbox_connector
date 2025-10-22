@@ -1,0 +1,4 @@
+# NetBox Connector Python Dependencies
+
+requests>=2.25.0
+splunklib>=1.6.0
